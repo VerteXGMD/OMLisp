@@ -1,7 +1,0 @@
-org\vertex\omlisp\Main.class
-org\vertex\omlisp\lexer\Lexer.class
-org\vertex\omlisp\token\CodePartLocation.class
-org\vertex\omlisp\token\TokenKind.class
-org\vertex\omlisp\token\TokenValue.class
-org\vertex\omlisp\token\CodeLocation.class
-org\vertex\omlisp\token\Token.class
